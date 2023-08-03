@@ -21,12 +21,12 @@ To set up the project on your local machine, follow these steps:
 
 a. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/Abiodun001-world/alx-backend-user-data.git
 ```
 
 b. Navigate to the project directory:
 ```bash
-cd alx-backend-user-data
+ls -list all files,and directories
 ```
 
 Please note that proper authentication and authorization mechanisms should be implemented to secure these endpoints.
