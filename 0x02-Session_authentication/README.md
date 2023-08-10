@@ -10,10 +10,10 @@ In this project, you will implement Session Authentication without using any add
 
 Before you begin, make sure to read or watch the following resources:
 
-- [REST API Authentication Mechanisms - Session Auth]()
-- [HTTP Cookie]()
-- [Flask]()
-- [Flask Cookie]()
+- [REST API Authentication Mechanisms - Session Auth](https://www.youtube.com/watch?v=501dpx2IjGY)
+- [HTTP Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie)
+- [Flask](https://palletsprojects.com/p/flask/)
+- [Flask Cookie](https://flask.palletsprojects.com/en/1.1.x/quickstart/#cookies)
 
 ## Learning Objectives
 
