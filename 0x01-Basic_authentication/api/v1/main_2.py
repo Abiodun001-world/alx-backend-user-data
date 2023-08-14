@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-""" Check response
-"""
+"""Check response"""
+
 import requests
 
 if __name__ == "__main__":
@@ -11,5 +11,6 @@ if __name__ == "__main__":
     if r.headers.get('content-type') != "application/json":
         print("Wrong content type: {}".format(r.headers.get('content-type')))
         exit(1)
-    
+
     print("OK", end="")
+

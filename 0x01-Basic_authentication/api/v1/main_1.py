@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-""" Check response
-"""
+"""Check response"""
+
 import requests
 
 if __name__ == "__main__":
@@ -8,5 +8,6 @@ if __name__ == "__main__":
     if r.status_code != 401:
         print("Wrong status code: {}".format(r.status_code))
         exit(1)
-   
+
     print("OK", end="")
+
